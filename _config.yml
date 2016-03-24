@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
+#highlighter: pygments
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -12,15 +12,15 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://julianviso.github.io/
-baseurl: /sustain/
+baseurl: /julianviso/
 title: Julian Viso
 author: Julian Viso
 description: Personal blog and resume
 avatar: profile.png
 email: julian.viso@outlook.com
 github: julianviso # username
-twitter: username
-linkedin: username
+twitter: usernamess
+linkedin: usernamesssssss
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
