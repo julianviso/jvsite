@@ -11,7 +11,7 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://julianviso.github.io/
+url: http://julianviso.com/
 baseurl: /julianviso/
 title: Julian Viso
 author: Julian Viso
@@ -19,8 +19,8 @@ description: Personal blog and resume
 avatar: profile.png
 email: julian.viso@outlook.com
 github: julianviso # username
-twitter: usernamess
-linkedin: usernamesssssss
+#twitter: usernamess
+#linkedin: usernamesssssss
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
