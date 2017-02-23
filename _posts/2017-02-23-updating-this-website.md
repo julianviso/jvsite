@@ -22,14 +22,14 @@ My website has two repositories on github.
 
 It was created to where any content I manually create (such as this blog post) gets written in jvsite, and then all the content gets generated in julianviso.github.io which is then displayed. To do this, the following command is run.
 
-'''
+```
 jekyll serve
-'''
+```
 
 This command will generate everything inside of _site. Everything that gets generated in here then needs to be pushed to julianviso.github.io in order for the changes to show up. To do this we can either manually move everything over (bad idea) or we can let jekyll do everything for us with the following command.
 
-'''
+```
 jekyll build --destination "path to julianviso.github.io"
-'''
+```
 
 
