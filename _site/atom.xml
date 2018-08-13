@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   
     <title type="text" xml:lang="en">Julian Viso</title>
-    <link type="application/atom+xml" rel="self" href="http://julianviso.com//atom.xml"/>
+    <link type="application/atom+xml" rel="self" href="http://localhost:3000/atom.xml"/>
   
-  <link href="http://julianviso.com//"/>
-  <id>http://julianviso.com//</id>
-  <updated>2018-03-05T14:59:18Z</updated>
+  <link href="http://localhost:3000/"/>
+  <id>http://localhost:3000/</id>
+  <updated>2018-08-13T15:46:14Z</updated>
   <author>
     <name>Julian Viso</name>
     <email>julian.viso@outlook.com</email>
@@ -15,8 +15,8 @@
   
   <entry>
   <title type="text">Discord Bot Project and More</title>
-  <link rel="alternate" type="text/html" href="http://julianviso.com//discord-bot-project-and-more.html" />
-  <id>http://julianviso.com//discord-bot-project-and-more</id>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/discord-bot-project-and-more.html" />
+  <id>http://localhost:3000/discord-bot-project-and-more</id>
   <published>2018-03-05T00:00:00Z</published>
   <updated>2018-03-05T00:00:00Z</updated>
   <content type="html"><![CDATA[ <p>Another year, another domain renewal notification, another blog post. By now it&rsquo;s a running habit that around this time of the year this site will receive a few updates. 2017 was met with a lot of highs and a lot of lows. To quickly recap,</p>
@@ -86,8 +86,8 @@ exit
 
   <entry>
   <title type="text">Updating this website</title>
-  <link rel="alternate" type="text/html" href="http://julianviso.com//updating-this-website.html" />
-  <id>http://julianviso.com//updating-this-website</id>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/updating-this-website.html" />
+  <id>http://localhost:3000/updating-this-website</id>
   <published>2017-02-23T00:00:00Z</published>
   <updated>2017-02-23T00:00:00Z</updated>
   <content type="html"><![CDATA[ <p>A couple days ago I received my yearly notification to renew my domain. Each year when this happens, I tend to update this website. It has been about a year since this website was last updated. Yes I realize that I claimed last year I would try using the blog that I&rsquo;ve created. A lot has happened in the past year such as the following.</p>
@@ -126,8 +126,8 @@ exit
 
   <entry>
   <title type="text">Spring cleaning</title>
-  <link rel="alternate" type="text/html" href="http://julianviso.com//spring-cleaning.html" />
-  <id>http://julianviso.com//spring-cleaning</id>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/spring-cleaning.html" />
+  <id>http://localhost:3000/spring-cleaning</id>
   <published>2016-03-25T00:00:00Z</published>
   <updated>2016-03-25T00:00:00Z</updated>
   <content type="html"><![CDATA[ <p>In the past four months, everything in my life has changed drastically. I graduated college, started working as a software engineer, and for the first time in several years have found myself with plenty of free time. For over half a year I&rsquo;ve had the intention of remodeling my site, but found an excuse to put it off. Given the recent changes in my life, I figured now is the perfect time to do some spring cleaning and bring back life to this site. Today you&rsquo;re seeing that in this new layout that was inspired by <a href="https://github.com/biomadeira/sustain">Sustain</a>.
